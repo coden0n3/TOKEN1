@@ -1,0 +1,11 @@
+[
+    {
+        "name": "hdntl",
+        "value": "exp=1772045055~acl=%2F*~id=7ca0baa3-9a17-4c28-bab0-2bbf686bc767~data=hdntl~hmac=8c1c83e745236260dce270584a6d24d4253eada086e31aba67cb1fb11e8bad4e",
+        "domain": "1057-aws-da-mt.vrioott.com",
+        "path": "\/",
+        "secure": true,
+        "httpOnly": false,
+        "expiresAt": 1771956915000
+    }
+]
